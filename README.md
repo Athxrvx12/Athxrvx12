@@ -27,7 +27,7 @@ I'm **Atharva Bhosale**, a B.E. Information Technology student (GPA 9.15/10) fro
 - 🔭 **Currently building:** Full-stack projects with Next.js, FastAPI & Supabase
 - 💻 **Core expertise:** Python, JavaScript, SQL, REST APIs, Next.js & FastAPI
 - 🧪 **Interested in:** API Testing (Postman), Functional Testing, Debugging & Test Automation
-- 🌱 **Currently learning:** Test Automation (Selenium/Cypress), System Design, Docker & Cloud
+- 🌱 **Currently learning:** System Design, Docker & Cloud
 - 🤝 **Open to:** Internships, QA / Software Engineering roles & Hackathon teams
 - 💬 **Ask me about:** Full Stack Development, APIs, Databases & AI-powered apps
 - ⚡ **Fun fact:** I like breaking my own apps before anyone else does!
@@ -187,7 +187,7 @@ Full-stack medical logistics platform that uses Gemini Vision AI to read handwri
 
 ## 🌱 What I'm Currently Exploring
 
-- 🧪 Test Automation basics (Selenium / Cypress)
+- 🧪 Test Automation basics
 - 🔌 Deeper API Testing with Postman — auth, status codes, response validation
 - 🗄️ Advanced SQL & Database Testing
 - 🐳 Docker & Cloud Deployment
