@@ -49,7 +49,7 @@ AWS • Git • GitHub • Postman • Figma
 
 ### 🤝 Connect With Me
 
-- LinkedIn: Atharva Bhosale(https://linkedin.com/atharvacodes)
+- LinkedIn: https://linkedin.com/atharvacodes
 - Email: atharvabhosale74@gmail.com
-- GitHub: Atharva Bhosale(https://github.com/Athxrvx12) 
+- GitHub: https://github.com/Athxrvx12 
 
