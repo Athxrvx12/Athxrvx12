@@ -67,7 +67,7 @@ I'm **Atharva Bhosale**, a B.E. Information Technology student (GPA 9.15/10) fro
 
 <ul>
 <li>API Testing with Postman</li>
-<li>Functional & Regression Testing</li>
+<li>Functional Testing</li>
 <li>Test Case Design & Defect Reporting</li>
 <li>SQL & Database Validation</li>
 <li>Debugging Frontend–Backend Integration</li>
@@ -140,7 +140,7 @@ Full-stack medical logistics platform that uses Gemini Vision AI to read handwri
 - ✅ Cleared the **TCS NQT** (National Qualifier Test)
 - 💡 Participated in **Hackflow 4.0**
 - ⚡ Participated in **multiple hackathons**, building working prototypes under time pressure
-- 🎓 Maintaining a **9.15/10 GPA** in B.E. Information Technology and **87.75%** in Diploma in IT
+- 🎓 Maintaining a **9.15/10 GPA** in B.E. Information Technology
 
 ---
 
